@@ -6,7 +6,9 @@ para este desafio serão três imagens para serem usadas são elas:
 Copie o comando abaixo:
 
     $ docker pull lexcorp/nginx
+
     $ docker pull lexcorp/node
+    
     $ docker pull lexcorp/mysql
 
 ### Acesse o Docker Hub diretamente
@@ -25,4 +27,5 @@ Copie o comando abaixo:
 Após os serviços estarem executando. Digite o endereço http://localhost:8080 no seu browser favorito e veja a mágica acontecer. :wink: :smiley:
 
 Obrigado! :yum:
+
 Alex Rondão
