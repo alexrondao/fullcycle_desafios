@@ -2,13 +2,18 @@
 Criar um docker compose que suba uma imagem de Nginx, NodeJs e MySQL, colocando o Nginx como proxy reverso e adicionar uma função no NodeJs para retornar os registros do banco de dados MySQL.
 
 ### Imagem do docker da aplicação
-para este desafio serão três imagens para serem usadas são elas:
+Para este desafio serão três imagens para serem usadas, são elas:
+
 Copie o comando abaixo:
 
     $ docker pull lexcorp/nginx
 
+Copie o comando abaixo:
+
     $ docker pull lexcorp/node
-    
+
+Copie o comando abaixo:
+
     $ docker pull lexcorp/mysql
 
 ### Acesse o Docker Hub diretamente
